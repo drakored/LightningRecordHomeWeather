@@ -1,0 +1,17 @@
+{
+    "projectName": "LightningRecordHomeWeather",
+    "username": "drakored@gmail.com",
+    "id": "d5118a60-5550-11e6-b740-f30e5a814e42",
+    "namespace": "ds23",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "/Users/drakored/Projects",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AuraDefinitionBundle",
+        "StaticResource"
+    ]
+}
